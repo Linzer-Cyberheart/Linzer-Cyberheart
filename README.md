@@ -1,5 +1,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=linzer-cyberheart&count_private=true&show_icons=true&theme=radical)](https://github.com/Linzer-Cyberheart)
-
+<a href="https://github.com/Linzer-Cyberheart">
+  <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Linzer-Cyberheart" />
+</a>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Linzer-Cyberheart)](https://github.com/Linzer-Cyberheart)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfernandoss/)](https://www.linkedin.com/in/luizfernandoss/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCKsQt2-ymitctFnlfbxxkHA?view_as=subscriber)](https://www.youtube.com/channel/UCKsQt2-ymitctFnlfbxxkHA?view_as=subscriber)
