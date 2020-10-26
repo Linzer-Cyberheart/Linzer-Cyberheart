@@ -1,14 +1,10 @@
-######**HELLO WORLD**!
+**HELLO WORLD**!
   
 <a href="https://github.com/Linzer-Cyberheart">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=linzer-cyberheart&count_private=true&show_icons=true&theme=radical" />
-</a>
-
-<br>
-
-<a href="https://github.com/Linzer-Cyberheart">
+</a> | <a href="https://github.com/Linzer-Cyberheart">
   <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Linzer-Cyberheart" />
-</a>
+</a> |
 
 <a href="https://github.com/Linzer-Cyberheart">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfernandoss/" />
