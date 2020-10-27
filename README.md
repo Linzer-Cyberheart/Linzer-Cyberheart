@@ -1,7 +1,5 @@
  <span align="center"> :earth_africa: HELLO WORLD! </span>
 
-<span align="center">
-
  <br>
 
  <a href="https://github.com/Linzer-Cyberheart">
@@ -51,5 +49,3 @@
 
 
  e-mail: luiz.silveira.cic@gmail.com
-<span/>
-
