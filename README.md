@@ -58,3 +58,5 @@
 
 
  e-mail: luiz.silveira.cic@gmail.com
+ 
+ [![HitCount](http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I.svg)](http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I)
