@@ -1,4 +1,4 @@
-:earth_africa:**HELLO WORLD**!
+:earth_africa: **HELLO WORLD**!
 
 <br>
   
@@ -26,7 +26,7 @@
 
 <hr>
 
-:mag_right:**SOCIAL MEDIA**
+:mag_right: **SOCIAL MEDIA**
 
 <a href="https://github.com/Linzer-Cyberheart">
   <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Linzer-Cyberheart" />
@@ -42,6 +42,6 @@
 
 <hr>
 
-:mailbox_with_mail:**CONTACT-ME**
+:mailbox_with_mail: **CONTACT-ME**
 
 e-mail: luiz.silveira.cic@gmail.com
