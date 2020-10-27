@@ -59,11 +59,11 @@
  e-mail: luiz.silveira.cic@gmail.com
 
 <hr>
-
+ 
+  <p align="center"> :octocat: É um prazer ter você aqui! </p>
+  
  <div align="center">
   <a align="center" href="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I">
     <img align="center" src="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I.svg" />
   </a>
  </div>
- 
-  <p align="center"> :octocat: É um prazer ter você aqui! </p>
