@@ -1,4 +1,4 @@
- <span align="center"> :earth_africa: HELLO WORLD! </span>
+ <p align="center"> :earth_africa: HELLO WORLD! </p>
 
  <br>
 
@@ -45,7 +45,7 @@
 
  <hr>
 
-  <p align="center"> :mailbox_with_mail: CONTACT-ME <p/>
+  <p align="left"> :mailbox_with_mail: CONTACT-ME <p/>
 
 
  e-mail: luiz.silveira.cic@gmail.com
