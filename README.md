@@ -26,7 +26,7 @@
 
 <hr>
 
-**REDES SOCIAIS**
+:mag_right:**SOCIAL MEDIA**
 
 <a href="https://github.com/Linzer-Cyberheart">
   <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Linzer-Cyberheart" />
