@@ -24,7 +24,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linzer-cyberheart&theme=radical&repo=OKUNO" />
 </a>
 <hr>
-**REDES SOCIAIS**
+**REDES SOCIAIS
 <a href="https://github.com/Linzer-Cyberheart">
   <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Linzer-Cyberheart" />
 </a><a href="https://github.com/Linzer-Cyberheart">
