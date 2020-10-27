@@ -1,6 +1,6 @@
- <p align="center"> 
+ <span align="center"> 
   :earth_africa: **HELLO WORLD!** 
- </p>
+ </span>
 
 <br>
   
