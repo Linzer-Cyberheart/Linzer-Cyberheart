@@ -1,4 +1,4 @@
-:earth_africa: **HELLO WORLD**!
+:earth_africa: <p align="center"> **HELLO WORLD** <p/>!
 
 <br>
   
