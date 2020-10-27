@@ -30,18 +30,19 @@
 
   <p align="center"> :mag_right: SOCIAL MEDIA <p/>
 
+<div align="center">
+  <a href="https://github.com/Linzer-Cyberheart">
+    <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Linzer-Cyberheart" />
+  </a>
 
- <a align="center" href="https://github.com/Linzer-Cyberheart">
-   <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Linzer-Cyberheart" />
- </a>
+  <a href="https://github.com/Linzer-Cyberheart">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfernandoss/" />
+  </a>
 
- <a align="center" href="https://github.com/Linzer-Cyberheart">
-   <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfernandoss/" />
- </a>
-
- <a align="center" href="https://github.com/Linzer-Cyberheart">
-   <img align="center" src="https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCKsQt2-ymitctFnlfbxxkHA?view_as=subscriber" />
- </a>
+  <a href="https://github.com/Linzer-Cyberheart">
+    <img align="center" src="https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&       logoColor=white&link=https://www.youtube.com/channel/UCKsQt2-ymitctFnlfbxxkHA?view_as=subscriber" />
+  </a>
+ </div>
 
  <hr>
 
