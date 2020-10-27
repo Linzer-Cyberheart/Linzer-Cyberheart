@@ -13,13 +13,10 @@
 <p align="center"> :wrench: FRAMEWORKS </p>
 
 <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/godot.png" />
-
-![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/godot.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/react.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/angular.png "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/bootstrap.png "Logo Title Text 1")
-
+<img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs.png" />
+<img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/react.png" />
+<img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/angular.png" />
+<img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/bootstrap.png" />
 
  <hr>
 
