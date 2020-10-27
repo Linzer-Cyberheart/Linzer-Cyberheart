@@ -12,7 +12,7 @@
 
 <p align="center"> :wrench: FRAMEWORKS </p>
 
- ![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/godot.png "Logo Title Text 1")
+ ![alt text]( aling="center" https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/godot.png "Logo Title Text 1")
  ![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs.png "Logo Title Text 1")
  ![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/react.png "Logo Title Text 1")
  ![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/angular.png "Logo Title Text 1")
