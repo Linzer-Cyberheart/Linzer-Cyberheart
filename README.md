@@ -54,7 +54,7 @@
  
  <div align="center">
   <a align="center" href="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I">
-    :rage2: <img align="center" src="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I.svg" />
+    <img align="center" src="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I.svg" />
   </a>
  </div>
 
