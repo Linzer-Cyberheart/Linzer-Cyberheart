@@ -66,4 +66,4 @@
   </a>
  </div>
  
-  <p align="center"> :earth_africa: Um prazer você aqui! </p>
+  <p align="center"> :octocat: É um prazer ter você aqui! </p>
