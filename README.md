@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=linzer-cyberheart&count_private=true&show_icons=true&theme=radical" />
 </a> 
 
-<br>
+<hr>
 
 <a href="https://github.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linzer-cyberheart&theme=radical&repo=GODOT-GDScript-Parte-I-" />
