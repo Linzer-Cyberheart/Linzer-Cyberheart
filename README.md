@@ -51,12 +51,13 @@
   </a>
   
  </div>
+ 
+  <a href="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I">
+    <img align="center" src="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I.svg" />
+  </a>
 
  <hr>
 
  <p align="left"> :mailbox_with_mail: CONTACT-ME <p/>
 
-
  e-mail: luiz.silveira.cic@gmail.com
- 
- [![HitCount](http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I.svg)](http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I)
