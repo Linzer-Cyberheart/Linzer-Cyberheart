@@ -56,8 +56,8 @@
 
  <p align="center"> :mailbox_with_mail: CONTACT-ME <p/>
 
-  [ssss](luiz.silveira.cic@gmail.com)
-
+  <div align="center"> [ssss](luiz.silveira.cic@gmail.com) </div>
+  
 <hr>
  
   <p align="center"> :octocat: É um prazer ter você aqui! </p>
