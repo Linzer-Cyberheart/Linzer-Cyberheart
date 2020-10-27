@@ -65,3 +65,5 @@
     <img align="center" src="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I.svg" />
   </a>
  </div>
+ 
+  <p align="center"> :earth_africa: Um prazer você aqui! </p>
