@@ -56,7 +56,7 @@
 
  <p align="center"> :mailbox_with_mail: CONTACT-ME <p/>
 
- <div align="center"> [ssss](luiz.silveira.cic@gmail.com) </div>
+  [ssss](luiz.silveira.cic@gmail.com)
 
 <hr>
  
