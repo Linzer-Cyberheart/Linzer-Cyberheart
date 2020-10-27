@@ -1,6 +1,8 @@
  <span align="center"> 
   :earth_africa: **HELLO WORLD!** 
  </span>
+ <p style="text-align: center;">Centered text</p>
+
 
 <br>
   
