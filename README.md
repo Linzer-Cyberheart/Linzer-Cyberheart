@@ -13,7 +13,7 @@
 <div align="center">
  
   <a href="https://github.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linzer-cyberheart&theme=radical&repo=GODOT-GDScript-Parte-I-" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linzer-cyberheart&theme=radical&repo=GODOT-GDScript-Parte-I" />
   </a>
 
   <a href="https://github.com/Linzer-Cyberheart/GODOT-GDScript-Parte-II">
