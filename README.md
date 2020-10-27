@@ -19,8 +19,17 @@
  ![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/bootstrap.png "Logo Title Text 1")
 
  <hr>
+ 
+ <p align="center"> LANGUAGES </p>
+ 
+![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png "Logo Title Text 1")
+![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png "Logo Title Text 1")
+![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png "Logo Title Text 1")
+![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png "Logo Title Text 1")
+![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png "Logo Title Text 1")
+![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png "Logo Title Text 1")
 
-  <p align="center"> :package: SOME REPO <p/>
+ <p align="center"> :package: SOME REPO <p/>
   
 <div align="center">
  
