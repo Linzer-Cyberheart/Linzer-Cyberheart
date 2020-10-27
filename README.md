@@ -47,5 +47,4 @@
 :mailbox_with_mail: **CONTACT-ME**
 
 e-mail: luiz.silveira.cic@gmail.com
-<span style="color:blue">some *This is Blue italic.* text</span>
-<span style="color:red">some **This is Red Bold.** text</span>
+
