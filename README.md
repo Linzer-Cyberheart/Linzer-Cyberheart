@@ -1,4 +1,4 @@
-:earth_africa: <p align="center"> **HELLO WORLD** <p/>!
+<p align="center"> :earth_africa: **HELLO WORLD!** <p/>
 
 <br>
   
@@ -8,7 +8,7 @@
 
 <hr>
 
-:package: **SOME REPO**
+<p align="center"> :package: **SOME REPO** <p/>
 
 <a href="https://github.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linzer-cyberheart&theme=radical&repo=GODOT-GDScript-Parte-I-" />
@@ -28,7 +28,8 @@
 
 <hr>
 
-:mag_right: **SOCIAL MEDIA**
+<p align="center"> :mag_right: **SOCIAL MEDIA** <p/>
+
 
 <a href="https://github.com/Linzer-Cyberheart">
   <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Linzer-Cyberheart" />
@@ -44,7 +45,8 @@
 
 <hr>
 
-:mailbox_with_mail: **CONTACT-ME**
+<p align="center"> :mailbox_with_mail: **CONTACT-ME** <p/>
+
 
 e-mail: luiz.silveira.cic@gmail.com
 
