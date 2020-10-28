@@ -23,14 +23,35 @@
  <hr>
  
  <p align="center"> :bookmark_tabs: LANGUAGES </p>
-<p align="center">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png" alt="Logo Title Text 1">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png" alt="Logo Title Text 1">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png" alt="Logo Title Text 1">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png" alt="Logo Title Text 1">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png" alt="Logo Title Text 1">
- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png" alt="Logo Title Text 1">
-</p>
+ 
+ <p align="center">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png" alt="Logo Title Text 1">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png" alt="Logo Title Text 1">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png" alt="Logo Title Text 1">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png" alt="Logo Title Text 1">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png" alt="Logo Title Text 1">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png" alt="Logo Title Text 1">
+ </p>
+ 
+ <hr>
+ 
+  <p align="center"> :hammer: TOOLS </p>
+ 
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_intellij.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_pycharm.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/powershell.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio_code.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/vmware.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/android_studio.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/eclipse.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_appcode.png" alt="Logo Title Text 1">
+ </p>
+
+
+<hr>
+
  <p align="center"> :package: SOME REPO <p/>
   
 <div align="center">
