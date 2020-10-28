@@ -20,7 +20,7 @@
  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/bootstrap.png" alt="Logo Title Text 1">
 </p>
 
- <hr>
+ 
  
  <p align="center"> :bookmark_tabs: LANGUAGES </p>
  
@@ -33,7 +33,7 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png" alt="Logo Title Text 1">
  </p>
  
- <hr>
+ 
  
   <p align="center"> :hammer: TOOLS </p>
  
