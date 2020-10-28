@@ -76,7 +76,7 @@
 
  <hr>
  
-  <p align="center"> :hammer: EXPERIENCED WITH </p>
+  <p align="center"> :books: EXPERIENCED WITH </p>
  
  <p align="center">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/desktop.png" alt="Logo Title Text 1">
