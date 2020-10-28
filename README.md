@@ -12,23 +12,25 @@
 
 <p align="center"> :wrench: FRAMEWORKS </p>
 
+<p align="center">
  ![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/godot.png "Logo Title Text 1")
  ![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs.png "Logo Title Text 1")
  ![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/react.png "Logo Title Text 1")
  ![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/angular.png "Logo Title Text 1")
  ![alt text](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/bootstrap.png "Logo Title Text 1")
+</p>
 
  <hr>
  
  <p align="center"> LANGUAGES </p>
- 
-![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png "Logo Title Text 1")
-![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png "Logo Title Text 1")
-![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png "Logo Title Text 1")
-![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png "Logo Title Text 1")
-![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png "Logo Title Text 1")
-![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png "Logo Title Text 1")
-
+<p align="center">
+ ![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png "Logo Title Text 1")
+ ![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png "Logo Title Text 1")
+ ![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png "Logo Title Text 1")
+ ![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png "Logo Title Text 1")
+ ![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png "Logo Title Text 1")
+ ![alt text](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png "Logo Title Text 1")
+</p>
  <p align="center"> :package: SOME REPO <p/>
   
 <div align="center">
