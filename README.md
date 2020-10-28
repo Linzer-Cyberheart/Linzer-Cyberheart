@@ -75,6 +75,20 @@
  </div>
 
  <hr>
+ 
+  <p align="center"> :hammer: EXPERIENCED WITH </p>
+ 
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/desktop.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/mobile.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/tablet.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/web.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/iot.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/security.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/gamedev.png" alt="Logo Title Text 1">
+ </p>
+ 
+ <hr>
 
   <p align="center"> :mag_right: SOCIAL MEDIA <p/>
 
