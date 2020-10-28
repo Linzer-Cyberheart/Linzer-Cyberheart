@@ -83,17 +83,13 @@
   <a align="center" href="https://www.linkedin.com/in/luizfernandoss/">
     <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/linkedin.png" />
   </a>
- 
-  <a href="https://github.com/Linzer-Cyberheart">
-    <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Linzer-Cyberheart" />
+
+  <a href="hhttps://www.instagram.com/linzer_cyberheart/">
+    <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/instagram.png" />
   </a>
 
-  <a href="https://github.com/Linzer-Cyberheart">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfernandoss/" />
-  </a>
-
-  <a href="https://github.com/Linzer-Cyberheart">
-    <img align="center" src="https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCKsQt2-ymitctFnlfbxxkHA?view_as=subscriber" />
+  <a href="https://www.youtube.com/channel/UCKsQt2-ymitctFnlfbxxkHA">
+    <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube.png" />
   </a>
   
  </div>
