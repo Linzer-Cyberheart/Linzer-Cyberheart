@@ -46,6 +46,7 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/vmware.png" alt="Logo Title Text 1">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/android_studio.png" alt="Logo Title Text 1">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/eclipse.png" alt="Logo Title Text 1">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/bash.png" alt="Logo Title Text 1">
  </p>
 
 
