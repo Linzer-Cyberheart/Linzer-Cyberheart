@@ -110,16 +110,16 @@
  
  <hr>
  
- <p align="center"> :octocat: É um prazer ter você aqui! </p>
+<p align="center"> :octocat: É um prazer ter você aqui! </p>
   
- <div align="center">
-  <a align="center" href="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I">
-    <img align="center" src="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I.svg" />
-  </a>
- </div>
+<div align="center">
+ <a align="center" href="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I">
+   <img align="center" src="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I.svg" />
+ </a>
+</div>
 
- <hr>
+<hr>
 
- :mailbox_with_mail: CONTACT-ME
+:mailbox_with_mail: CONTACT-ME
 
- luiz.silveira.cic@gmail.com
+luiz.silveira.cic@gmail.com
