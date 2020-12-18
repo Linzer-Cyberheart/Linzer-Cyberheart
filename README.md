@@ -114,7 +114,7 @@
 <div align="center">
  <a align="center" href="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I">
    <img align="center" src="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I.svg" />
-  ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/Linzer-Cyberheart/count.svg)
  </a>
 </div>
 
