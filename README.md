@@ -30,8 +30,6 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png" alt="Logo Title Text 1">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png" alt="Logo Title Text 1">
  </p>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linzer-cyberheart_count=8)]((https://github.com/anuraghazra/github-readme-stats))
- 
  
  
   <p align="center"> :hammer: TOOLS </p>
