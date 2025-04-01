@@ -1,116 +1,50 @@
- <p align="center"> :earth_africa: HELLO WORLD! </p>
+# 👋 Hi, I'm Luiz Fernando
 
- <br>
- 
-<hr>
+**Software Engineer | Full-Stack Developer | Cybersecurity | Game Developer**
 
-<p align="center"> :wrench: FRAMEWORKS </p>
+📍 Rio de Janeiro, Brazil  
+💼 Currently: Software Engineer Jr. @ Vegas Vigilância e Segurança  
+🎮 Building games with GODOT & Pixel Art in my free time  
+🔒 Passionate about LGPD (Brazilian GDPR) and InfoSec  
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/godot.png" alt="Logo Title Text 1">
- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs.png" alt="Logo Title Text 1">
- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/react.png" alt="Logo Title Text 1">
- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/bootstrap.png" alt="Logo Title Text 1">
-</p>
+---
 
- 
- <p align="center"> :bookmark_tabs: LANGUAGES </p>
- 
- <p align="center">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png" alt="Logo Title Text 1">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png" alt="Logo Title Text 1">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png" alt="Logo Title Text 1">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png" alt="Logo Title Text 1">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png" alt="Logo Title Text 1">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png" alt="Logo Title Text 1">
- </p>
- 
- 
-  <p align="center"> :hammer: TOOLS </p>
- 
- <p align="center">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_intellij.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/jetbrains_pycharm.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/powershell.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio_code.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/vmware.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/android_studio.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/eclipse.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/bash.png" alt="Logo Title Text 1">
- </p>
+### 🛠️ Tech Stack
 
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 
-<hr>
+**Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
- <p align="center"> :package: SOME REPO <p/>
-  
-<div align="center">
- 
-  <a href="https://github.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linzer-cyberheart&theme=radical&repo=GODOT-GDScript-Parte-I" />
-  </a>
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white)
 
-  <a href="https://github.com/Linzer-Cyberheart/GODOT-GDScript-Parte-II">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linzer-cyberheart&theme=radical&repo=GODOT-GDScript-Parte-II" />
-  </a>
+**Game Dev**  
+![GODOT](https://img.shields.io/badge/-GODOT-478CBF?logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/-GDScript-355570?logo=godot-engine&logoColor=white)
+![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?logo=aseprite&logoColor=white)
 
-  <a href="https://github.com/Linzer-Cyberheart/GODOT-GDScript-Parte-III">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linzer-cyberheart&theme=radical&repo=GODOT-GDScript-Parte-III" />
-  </a>
+---
 
-  <a href="https://github.com/Linzer-Cyberheart/OKUNO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linzer-cyberheart&theme=radical&repo=OKUNO" />
-  </a>
-  
- </div>
+### 📌 Currently Working On
 
- <hr>
- 
-  <p align="center"> :books: EXPERIENCED WITH </p>
- 
- <p align="center">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/desktop.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/mobile.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/tablet.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/web.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/iot.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/security.png" alt="Logo Title Text 1">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/misc/gamedev.png" alt="Logo Title Text 1">
- </p>
- 
- <hr>
+- 🔐 JWT authentication systems with role-based access control
+- 🎮 2D platformer game in GODOT with custom pixel art assets
+- 🐳 Dockerized microservices architecture for enterprise apps
 
-  <p align="center"> :mag_right: SOCIAL MEDIA <p/>
+---
 
-<div align="center">
- 
-  <a align="center" href="https://www.linkedin.com/in/luizfernandoss/">
-    <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/linkedin.png" />
-  </a>
+### 📫 Let's Connect
 
-  <a href="hhttps://www.instagram.com/linzer_cyberheart/">
-    <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/social/instagram.png" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizfernandoss)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:luiz.silveira.cic@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-GitHub_Portfolio-181717?logo=github&logoColor=white)](https://github.com/Linzer-Cyberheart)
 
-  <a href="https://www.youtube.com/channel/UCKsQt2-ymitctFnlfbxxkHA">
-    <img align="center" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/youtube.png" />
-  </a>
-  
- </div>
- 
- <hr>
- 
-<p align="center"> :octocat: É um prazer ter você aqui! </p>
-  
-<div align="center">
- <a align="center" href="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I">
-   <img align="center" src="http://hits.dwyl.com/Linzer-Cyberheart/GODOT-GDScript-Parte-I.svg" />
- </a>
-</div>
-
-<hr>
-
-:mailbox_with_mail: CONTACT-ME
-
-luiz.silveira.cic@gmail.com
+---
