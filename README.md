@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luiz Fernando
+# 👋 Hello world, I'm Luiz Fernando
 
 **Software Engineer | Full-Stack Developer | Cybersecurity | Game Developer**
 
