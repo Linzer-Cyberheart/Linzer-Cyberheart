@@ -2,11 +2,9 @@
 
 **Software Engineer | Full-Stack Developer | Cybersecurity | Game Developer**
 
-🎮 https://ilinzer.itch.io/
-
 📍 Rio de Janeiro, Brazil  
 💼 Currently: Software Engineer Jr. @ Vegas Vigilância e Segurança  
-🎮 Building games with GODOT & Pixel Art in my free time  
+🎮 Building games with GODOT & Pixel Art in my free time | https://ilinzer.itch.io/
 🔒 Passionate about LGPD (Brazilian GDPR) and InfoSec  
 
 ---
