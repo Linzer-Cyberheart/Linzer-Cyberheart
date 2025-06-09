@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/Linzer-Cyberheart"><img src="https://img.shields.io/github/followers/Linzer-Cyberheart?label=GitHub&style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/luizfernandoss/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://ilinzer.itch.io/"<img src="" /></a>
+  <a href="https://ilinzer.itch.io/"<img src="https://img.shields.io/badge/itch.io-profile-red?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
   <a href="mailto:luiz.silveira.cic@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -33,16 +33,6 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
-
----
-
-### 📈 My Coding Stats
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Linzer-Cyberheart&show_icons=true&theme=radical&count_private=true&hide=stars" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linzer-Cyberheart&layout=compact&theme=radical&langs_count=8&hide=css" height="165" />
-</p>
 
 ---
 
